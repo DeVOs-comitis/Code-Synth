@@ -1,5 +1,6 @@
 # 🎹 Code Synth(under construction)
 
+
 > A playful web app that turns your code into music in real-time. Where logic meets harmony.
 Ever looked at a block of code and thought, "What would this sound like?" No? Well, now you can!
 I built Code Synth to explore the fascinating intersection of software engineering and music. It’s more than just a toy—it's a real-time musical instrument that translates the structure of your code into melody, rhythm, and harmony. It's a fun, creative way to see and hear your code in a whole new light.
